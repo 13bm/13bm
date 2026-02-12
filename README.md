@@ -1,4 +1,4 @@
-# Hey, I'm Brandon
+## Hey, I'm Brandon
 
 Pentester by trade. I build things that sit at the intersection of reverse engineering, offensive security, and infrastructure automation.
 
