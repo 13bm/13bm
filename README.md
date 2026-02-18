@@ -22,6 +22,6 @@ Free Shodan Host Overview fetches and parses public host information from Shodan
 ## Tech Stack
 
 ```text
-Languages:    Rust, Java, Python, TypeScript, Bash, PowerShell, HCL
+Languages:    Rust, Java, Python, Go, TypeScript, Bash, PowerShell, HCL
 Domains:      Reverse Engineering, Offensive Security, MCP/AI Tooling, Linux Internals
-Infra:        AWS, Terraform, Packer, pfSense, Elastic Stack
+Infra:        AWS, Azure, Terraform, Packer, Elastic Stack
